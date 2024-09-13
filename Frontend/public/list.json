@@ -1,0 +1,91 @@
+[
+
+    {
+        "id":1,
+        "name": "Story Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur",
+        "price": 0,
+        "category":"Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725538603~exp=1725542203~hmac=c66fa01d8dfb94117fc7728fd87f9919c98d161a667edcb7b720d5d355c43b65&w=740"
+    },
+    {
+        "id":2,
+        "name": "Comedy Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur",
+        "price": 50,
+        "category":"Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725538603~exp=1725542203~hmac=c66fa01d8dfb94117fc7728fd87f9919c98d161a667edcb7b720d5d355c43b65&w=740"
+    },
+    {
+        "id":3,
+        "name": "Love Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur",
+        "price": 60,
+        "category":"Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725538603~exp=1725542203~hmac=c66fa01d8dfb94117fc7728fd87f9919c98d161a667edcb7b720d5d355c43b65&w=740"
+    },
+    {
+        "id":4,
+        "name": "Adventure Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur",
+        "price": 70,
+        "category":"Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725538603~exp=1725542203~hmac=c66fa01d8dfb94117fc7728fd87f9919c98d161a667edcb7b720d5d355c43b65&w=740"
+    },
+    {
+        "id":5,
+        "name": "Comic Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur",
+        "price": 80,
+        "category":"India",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725538603~exp=1725542203~hmac=c66fa01d8dfb94117fc7728fd87f9919c98d161a667edcb7b720d5d355c43b65&w=740"
+    },
+    {
+        "id":6,
+        "name": "Kutuco Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur",
+        "price": 90,
+        "category":"Pakistan",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725538603~exp=1725542203~hmac=c66fa01d8dfb94117fc7728fd87f9919c98d161a667edcb7b720d5d355c43b65&w=740"
+    },
+    {
+        "id":7,
+        "name": "Gakva Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur",
+        "price": 100,
+        "category":"China",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725538603~exp=1725542203~hmac=c66fa01d8dfb94117fc7728fd87f9919c98d161a667edcb7b720d5d355c43b65&w=740"
+    },
+    {
+        "id":8,
+        "name": "Bicho Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur",
+        "price": 110,
+        "category":"Korea",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725538603~exp=1725542203~hmac=c66fa01d8dfb94117fc7728fd87f9919c98d161a667edcb7b720d5d355c43b65&w=740"
+    },
+    {
+        "id":9,
+        "name": "Drama Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur",
+        "price": 120,
+        "category":"Greece",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725538603~exp=1725542203~hmac=c66fa01d8dfb94117fc7728fd87f9919c98d161a667edcb7b720d5d355c43b65&w=740"
+    },
+    {
+        "id":10,
+        "name": "Loptst Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur",
+        "price": 130,
+        "category":"Australia",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725538603~exp=1725542203~hmac=c66fa01d8dfb94117fc7728fd87f9919c98d161a667edcb7b720d5d355c43b65&w=740"
+    },
+    {
+        "id":11,
+        "name": "Chiva Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur",
+        "price": 140,
+        "category":"USA",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725538603~exp=1725542203~hmac=c66fa01d8dfb94117fc7728fd87f9919c98d161a667edcb7b720d5d355c43b65&w=740"
+    }
+]
